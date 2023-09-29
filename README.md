@@ -1,7 +1,7 @@
 # Flipkart-Clone-PHP
 
 ## Overview
-Full Stack Flipkart Clone Using LAMP Stack
+Full Stack Flipkart Clone Using WAMP Stack
 
 ## Tech Stack
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MahiTzy/Flipkart-Clone-PHP/search?l=html)&nbsp;
